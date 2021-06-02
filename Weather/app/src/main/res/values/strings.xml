@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Weather</string>
+    <string name="temperature_label">Температура</string>
+    <string name="feels_like_label">Ощущается как</string>
+    <string name="city_coordinates">lt/ln: %s, %s"</string>
+    <string name="error">Error</string>
+    <string name="reload">Reload</string>
+    <string name="degree_celsius_symbol">°C</string>
+    <string name="description_weather_condition_icon">weather condition icon</string>
+    <string name="label_humidity">Влажность</string>
+    <string name="label_visibility">Видимость</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="feels_like">Ощущается</string>
+    <string name="server_connection_error">Не удалось установить соединение с сервером</string>
 </resources>

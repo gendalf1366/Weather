@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Weather</string>
+    <string name="error">Error</string>
+    <string name="reload">Reload</string>
+    <string name="degree_celsius_symbol">°C</string>
+    <string name="label_humidity">Влажность</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="feels_like">Ощущается</string>
 </resources>

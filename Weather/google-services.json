@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "891311197959",
+    "project_id": "note-dfef2",
+    "storage_bucket": "note-dfef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891311197959:android:35dae5ee82c0861236ffa2",
+        "android_client_info": {
+          "package_name": "ru.geekbrains.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891311197959-tifjauvdhs9307mppd0bgl9t2l4bui9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB81awTsIyMK3ZXhyiiqIKPBANi-wUkNXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891311197959-tifjauvdhs9307mppd0bgl9t2l4bui9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891311197959:android:480dbc90435205a036ffa2",
+        "android_client_info": {
+          "package_name": "ru.geekbrains.weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891311197959-tifjauvdhs9307mppd0bgl9t2l4bui9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB81awTsIyMK3ZXhyiiqIKPBANi-wUkNXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891311197959-tifjauvdhs9307mppd0bgl9t2l4bui9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
